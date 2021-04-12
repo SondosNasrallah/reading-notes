@@ -82,13 +82,6 @@
     To push your changes “upstream” for sharing, you would use the following git push command format:
 
     "git push [remote-name][branch-name]"
-    
-  ### Renaming/Removing Remotes
-   -Rename
 
-      To rename a remote’s short name, use the git remote rename command.
-     
-   -Remove
 
-     To remove a remote for whatever reason (e.g., a contributor has left the team, the server has moved), simply use the git remote rm command.
-   ### 
+  
