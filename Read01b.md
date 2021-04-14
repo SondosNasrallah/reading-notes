@@ -32,5 +32,3 @@
 
 
 [Refrences](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 🏦
-
-
