@@ -16,7 +16,7 @@
 
 * Logical Operators:
   - **&&**: And
-  - **||**: or
+  - ** || **: or
   - **!**: Not 
 
 
@@ -31,7 +31,9 @@ loops check a condition. if it returns "True", a code block will run. Then the c
  2. While
  3. Do While
 
- ### Loop Counters 
+### Loop Counters 
+
+
  ![LoopCounters](https://beginnersbook.com/wp-content/uploads/2015/03/for_loop_Java.jpg)
 
 
